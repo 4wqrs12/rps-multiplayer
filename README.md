@@ -1,2 +1,2 @@
-# 4wqrs12-rps-multiplayer
+# rps-multiplayer
 rock-paper-scissors multiplayer
