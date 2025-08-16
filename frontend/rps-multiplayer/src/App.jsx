@@ -1,9 +1,5 @@
 function App() {
-  return (
-    <div className="app-container">
-      {/* create seperate branch for creating rock paper scissor */}
-    </div>
-  );
+  return <div className="app-container"></div>;
 }
 
 export default App;
